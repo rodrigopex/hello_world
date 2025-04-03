@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	printf("Hello World! %s\n", CONFIG_BOARD_TARGET);
+	printf("Atividade 01 - Manoel Rocha! %s\n", CONFIG_BOARD_TARGET);
 
 	return 0;
 }
